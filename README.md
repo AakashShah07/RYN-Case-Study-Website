@@ -29,3 +29,6 @@ If you are satisfied with the result, you can finally build the project for rele
 ```
 npm run build
 ```
+Here is the figma file: 
+
+[text](https://www.figma.com/design/E75ZEIxqExtHsQh1rYDQPs/RYN---Case-Study-Website--Community-?node-id=0-1&p=f&t=T8Gg3iXJI9sj6VJk-0)
